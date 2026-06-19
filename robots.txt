@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gbalbog.github.io/pc-portal-mahjong-com/sitemap.xml
